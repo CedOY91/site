@@ -103,7 +103,7 @@
 	.menu__bar.active {
 		margin: 50px 0 0 0;
 		padding: 50px;
-		transform: translateY(0%);
+		transform: translateY(50%);
 }
    .menu-bar__list {
    	display: flex;
@@ -289,11 +289,18 @@
 
 
 @media(max-width: 320px){
+  .menu {
+  padding: 20px 0 25px 0;
+
+}
   .menu__row {
 	justify-content: space-between;
 }
   .conteiner{
 	padding: 0 10px;
+}
+.baner {
+  margin: 80зч auto 0 auto;
 }
  
   .menu__logo-image{
