@@ -103,7 +103,7 @@
 	.menu__bar.active {
 		margin: 50px 0 0 0;
 		padding: 50px;
-		transform: translateY(50%);
+		transform: translateY(0%);
 }
    .menu-bar__list {
    	display: flex;
@@ -300,7 +300,7 @@
 	padding: 0 10px;
 }
 .baner {
-  margin: 80зч auto 0 auto;
+  margin: 80px auto 0 auto;
 }
  
   .menu__logo-image{
